@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+web/dist/
+# keep .llm_cache committed so the demo never depends on live calls

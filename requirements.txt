@@ -1,0 +1,13 @@
+anthropic>=0.40
+python-dotenv>=1.0
+pandas>=2.0
+numpy>=1.26
+sentence-transformers>=3.0
+umap-learn>=0.5
+hdbscan>=0.8
+scikit-learn>=1.4
+fastapi>=0.110
+uvicorn>=0.29
+pydantic>=2.6
+pytest>=8.0
+httpx>=0.27
